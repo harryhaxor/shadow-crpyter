@@ -8,14 +8,14 @@
 
 <div align="center">
   <h2>Authors</h2>
-    Ajajjajk - Aries52
+  mr ROOT 
   <br/>
     XaFF - XaFF
 </div>
 
 <div align="center">
   <h2>Features</h2>
-  <img src="https://github.com/XaFF-XaFF/Shadow-Crypt/blob/master/img/Shadow.png"></img
+  
 </div>
   
   AES256 and XOR encryption
@@ -35,9 +35,7 @@
  AntiVM
   <br/>
  
-## Requirements
-  dnlib https://github.com/0xd4d/dnlib#windows-pdbs
-  IconExtractor https://github.com/jsakamoto/IconExtractor
+
   
 ## Disclaimer
 
@@ -46,8 +44,6 @@ Crypter is intended for educational purposes only and should not be used for any
 This software's purpose is not to be used malciously, or on other computer, who you are not an owner.
 By downloading and using this software, you agree to above disclaimer 
 
-## License
 
-[MIT License](https://github.com/XaFF-XaFF/Shadow-Crypt/blob/master/LICENSE)
-<br/>
-Copyright (c) 2022 Talos
+
+
