@@ -6,12 +6,6 @@
     This application allows you to encrypt your payload to decrease scanners detection.</h4>
 </div>
 
-<div align="center">
-  <h2>Authors</h2>
-  mr ROOT 
-  <br/>
-    XaFF - XaFF
-</div>
 
 <div align="center">
   <h2>Features</h2>
@@ -35,7 +29,7 @@
  AntiVM
   <br/>
  
-
+AVALABLE 24/7 FOR ANY PROJECT 
   
 ## Disclaimer
 
